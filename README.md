@@ -1,6 +1,6 @@
 <img src="https://github.com/ycaglar/.github/blob/master/badge.png" align="right" width="10%"/>
 
-#  Iowa City Machine Learning
+#  Portfolio Website
 <!-- [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) -->
 
 ## Overview
